@@ -1,0 +1,6 @@
+Variavel: 
+    - É uma área de memoria, associada a um nome, que pode armazenar valores de um determinado tipo.
+Constantes: 
+    - São valores armazenados em memoria que não podem ser modificados depois de declarados.
+    - Esses valores são representados pela palavra reservada final, seguida do tipo
+    - Por convençã uma Variavel deve ser declarada em CAIXAALTA
