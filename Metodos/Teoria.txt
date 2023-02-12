@@ -18,3 +18,48 @@
         3- Quais parâmetros seão necessários para a execução do método?
         4- O método possui o risco de apresentar alguma exceção?
         5- Qual a visibilidade do método?
+- Escopo: 
+    - É o abiente onde uma variavel pode ser acessada. Em java , o escopo de variáveis vai de acordo com o bloco onde ela foi declarada.
+    - A variavel so poderá ser lida ou manipulada até o final do bloco em que ela foi declarada.
+
+    - Em uma classe, podemos visualizar a diferença de escopos. Os atributos são declarados no corpo principal da classe, sendo 
+      portanto acessíveis por todos os métodos.
+        - Caso Você declare uma variável dentro de u método, o escopo dessa variável está limitado apenas ao corpo desse método.
+
+- Palavra Reservadas:
+    - São identificadores de ma linguagem que á possuem uma finalidade específica, portanto não podem ser utilizados para nomear 
+      variaveis, classes, métodos ou atributos.
+
+    - Controles de pacotes:
+        - import: importa pacotes ou classes dentros do código.
+        - package: específica a que pacote todas as classes de um arquivo pertencem
+
+    - Modificadores de acesso:
+        - public: Acesso de qualquer classe.
+        - private: Acesso apenas dentro da classe.
+        - protected: Acesso por classes no mesmo pacote e subclasses.(Ela tem a finalidade de ser trabalhada com herança)
+
+    - Primitivos
+        - tipos de dados.
+
+    - Modificadores de classes, variáveis ou métodos
+        - abstract: Classe que não pode ser instanciada ou método que precisa ser implementado por uma subclasse não abstrata.
+        - class: Especifica uma classe.
+        - extends: Indica a superclasse que a sunclasse está estendendo.
+        - final: Impossibilita que uma classe seja estendida, que um método seja sobrescrito ou que uma variável seja reinicializada.
+        - implements: Indica as interfaces que uma classe irá implementar.
+        - interface: Especifica uma interface.
+        - native: Indica que um método está escrito em uma linguagem dependente de plataforma, como o C.
+        - new: Instancia um novo objeto, chamando seu construtor.
+        - static: Faz um método ou variavel pertence à classe ao invés de  Pas instâncias.
+        - strictfp1: Usado em frente a um método ou classe para indicar que os números de ponto flutuante seguirão as regras de 
+          ponto flutuante em todas as expressões
+        - synchronized: Indica que um método só pode ser acessado por uma thread de cada vez.
+        - transient: Impede a serialização de campos.
+        - volatile: Indica que uma variável pode ser alterada durante o uso de threads.
+    
+    
+
+
+
+    
