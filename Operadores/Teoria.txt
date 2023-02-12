@@ -1,0 +1,14 @@
+Operadores: são simbolos especiais que tem um significado próprio para a linguagem e estão 
+            associados a determinadas operações.
+
+- Atribuição :
+    - É representado pelo simbolo (=). Ele é usado para definir o valor inicial ou sobrescrever o valor de uma variavel.
+
+- Aritméticos:
+    - são usados para realizar operações matemáticas entre valores numéricos.
+    - Os operadores são: +, -, *, / e %.  
+
+- Unarios:
+    - São aplicados juntamente com um outro operador aritimético. Eles realizam alguns trabalhos básicos como incrementar, 
+      decrementar, inverter valores numéricos e booleanos 
+
