@@ -1,0 +1,20 @@
+- Classes: Uma classe é definida por atributos e métodos.
+
+- Atributos: são em sua grande maioria , variaveis de diferentes tipos e valores. 
+
+- Metodos: correspondem a funções ou sub-rotinas disponiveis dentro das nossas classes.
+    - Criterio de nomeação de métodos.
+        - Deve ser nomeado como verbo no infitivo.
+        - Seguir o padrão camelCase
+
+    Obs: Não existe em Java o conceito de métodos globais. Todos os metodos devem sempre ser definidos dentro de uma classe.
+
+    - Critérios de definição de métodos:
+        1- Qual proposta principal do método?
+        2- Qual tipo de retorno esperado após executar o método?
+
+        Obs: Caso o método não retorne nenhum valor, ele será representado pela palavra-chave void.
+
+        3- Quais parâmetros seão necessários para a execução do método?
+        4- O método possui o risco de apresentar alguma exceção?
+        5- Qual a visibilidade do método?
