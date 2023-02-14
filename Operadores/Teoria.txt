@@ -12,3 +12,12 @@ Operadores: são simbolos especiais que tem um significado próprio para a lingu
     - São aplicados juntamente com um outro operador aritimético. Eles realizam alguns trabalhos básicos como incrementar, 
       decrementar, inverter valores numéricos e booleanos 
 
+- Controle de fluxo:
+    - São estruturas que tem a capacidade de direcionar o fluxo de execução do código.
+    - Tipo
+        - Decisão: if, if-else, if-else-if,switch e operador ternário
+        - Repetição: for, while, do while
+        - Interrupção: break, continue e return
+
+- Blocos de execução
+    -É um grupo de 0 ou mais codigos quais trabalham em conjunto para exutar uma operação
