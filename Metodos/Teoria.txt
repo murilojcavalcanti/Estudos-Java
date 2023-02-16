@@ -19,11 +19,12 @@
         4- O método possui o risco de apresentar alguma exceção?
         5- Qual a visibilidade do método?
 - Escopo: 
-    - É o abiente onde uma variavel pode ser acessada. Em java , o escopo de variáveis vai de acordo com o bloco onde ela foi declarada.
+    - É o abiente onde uma variavel pode ser acessada. Em java , o escopo de variáveis vai de acordo com o bloco onde 
+      ela foi declarada.
     - A variavel so poderá ser lida ou manipulada até o final do bloco em que ela foi declarada.
 
-    - Em uma classe, podemos visualizar a diferença de escopos. Os atributos são declarados no corpo principal da classe, sendo 
-      portanto acessíveis por todos os métodos.
+    - Em uma classe, podemos visualizar a diferença de escopos. Os atributos são declarados no corpo principal da 
+      classe, sendo portanto acessíveis por todos os métodos.
         - Caso Você declare uma variável dentro de u método, o escopo dessa variável está limitado apenas ao corpo desse método.
 
 - Palavra Reservadas:
@@ -46,7 +47,8 @@
         - abstract: Classe que não pode ser instanciada ou método que precisa ser implementado por uma subclasse não abstrata.
         - class: Especifica uma classe.
         - extends: Indica a superclasse que a sunclasse está estendendo.
-        - final: Impossibilita que uma classe seja estendida, que um método seja sobrescrito ou que uma variável seja reinicializada.
+        - final: Impossibilita que uma classe seja estendida, que um método seja sobrescrito ou que uma variável seja
+                 reinicializada.
         - implements: Indica as interfaces que uma classe irá implementar.
         - interface: Especifica uma interface.
         - native: Indica que um método está escrito em uma linguagem dependente de plataforma, como o C.
@@ -59,7 +61,15 @@
         - volatile: Indica que uma variável pode ser alterada durante o uso de threads.
     
     
+- Argumentos :
+    - Quando executamos uma classe que contenha o método main, o mesmo permite que passemos um array[] de argumentos do tipo 
+      String. Logo podemos após a definição da classe a ser executada informar estes parâmetros.
 
+- Scanner:
+    - Com a finalidade de deixar as nossas etradas de dados mais seguras agora vamos receber estes dados via Scanner. Essa 
+      classe permite que o usuario tenha uma interação mais assertiva com o nosso programa.
 
-
+- Operadores Relacionais:
+    - São simbolos especiais quais são capazes de realizar comparações entre determinados operandos e, em 
+      seguida, retornar um resultado.
     
