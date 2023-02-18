@@ -1,0 +1,11 @@
+- Atribuições e referencias
+    - As atribuições em java são sempre por cópia de valor;
+    - Com tipo primitivo, copiamos o valor em memoria;
+    - Com objetos copiamos o valor da referência em memoria, sem dublicar o objeto.
+        
+Conceito de nó
+    - É um espaço em memoria que ele armazena tanto o dado que queremos armazenar quanto uma referencia para um proximo nó.
+    
+    -Encademento de nó:
+        - Para fazer um encadeamento de nós basta você atribuir a referencia do primeiro nó ao segundo nó e assim por diante 
+        até chegar ao ultimo nó que sua referencia é apontada para nulo.
